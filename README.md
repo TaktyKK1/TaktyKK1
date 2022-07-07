@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Łukasz Jurek - @TaktyKK1
+- 👋 Hi, I’m Łukasz - @TaktyKK1
 - I'm a student of Computer Science with a specialization in Programming Business Applications at the Kazimierz Wielki University in Bydgoszcz, Poland. 
 During my studies I got to know SQL, C#, ASP.NET, Java, Python, HTML, CSS, Javascript, C/C++(embedded systems).
 - 👀 I like to read, mostly science-fiction or fantasy, but also solve sudoku-type logic games, play multiplayer computer games, chess.
